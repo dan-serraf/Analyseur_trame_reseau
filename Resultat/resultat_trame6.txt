@@ -1,0 +1,288 @@
+>Trame 1
+>Ethernet 
+	Source Adress:08:00:20:0a:ac:96.
+	Destination Adress:08:00:20:0a:70:66.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0xf) 60.
+	TOS: (0x0) 0.
+	Total Length: (0x7c) 124.
+	Identification: (16262) 0x3f86.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 0
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0xfb) 251.
+	Protocole: (0x1) 1.
+	Header Cheksum: (18863) 0x49af.
+	Source Adresse:192.33.159.6.
+	Destinataire Adresse :132.227.61.5.
+	Option Length: (0x28) 40.
+	Rembourrage Length: (0x28) 0.
+	Ces option n'ont pas ete prit en compte par notre analyseur.
+
+
+>Transmission Control Protocol
+	Source Port :0 (0x0) .
+	Destination Port :43606 (0xaa56) .
+	Sequence Number :788529152 (0x2f000000) .
+	Acknowledgment Number :691440705 (0x29368c41) .
+	Header Length :0 octets  (0x0) .
+	Reserved:000000.
+		URG = 0
+		ACK = 0
+		PSH = 0
+		RST = 0
+		SYN = 1
+		FIN = 1
+	Window :34347 octets  (0x862b) .
+	Checksum :0x0809 (2057) .
+	Urgent Pointer :0a0b.
+	Option Length :-20 (-0x14) .
+	Rembourrage Length :0.
+
+
+>Trame 2
+>Ethernet 
+	Source Adress:08:00:20:0a:ac:96.
+	Destination Adress:08:00:20:0a:70:66.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0xf) 60.
+	TOS: (0x0) 0.
+	Total Length: (0x7c) 124.
+	Identification: (16262) 0x3f86.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 0
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0xfb) 251.
+	Protocole: (0x1) 1.
+	Header Cheksum: (18863) 0x49af.
+	Source Adresse:192.33.159.6.
+	Destinataire Adresse :132.227.61.5.
+	Option Length: (0x28) 40.
+	Rembourrage Length: (0x28) 0.
+	Ces option n'ont pas ete prit en compte par notre analyseur.
+
+
+>Transmission Control Protocol
+	Source Port :0 (0x0) .
+	Destination Port :43606 (0xaa56) .
+	Sequence Number :788529152 (0x2f000000) .
+	Acknowledgment Number :691440705 (0x29368c41) .
+	Header Length :0 octets  (0x0) .
+	Reserved:000000.
+		URG = 0
+		ACK = 0
+		PSH = 0
+		RST = 0
+		SYN = 1
+		FIN = 1
+	Window :34347 octets  (0x862b) .
+	Checksum :0x0809 (2057) .
+	Urgent Pointer :0a0b.
+	Option Length :-20 (-0x14) .
+	Rembourrage Length :0.
+
+
+>Trame 3
+>Ethernet 
+	Source Adress:08:00:20:0a:ac:96.
+	Destination Adress:08:00:20:0a:70:66.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0xf) 60.
+	TOS: (0x0) 0.
+	Total Length: (0x7c) 124.
+	Identification: (16262) 0x3f86.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 0
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0xfb) 251.
+	Protocole: (0x1) 1.
+	Header Cheksum: (18863) 0x49af.
+	Source Adresse:192.33.159.6.
+	Destinataire Adresse :132.227.61.5.
+	Option Length: (0x28) 40.
+	Rembourrage Length: (0x28) 0.
+	Ces option n'ont pas ete prit en compte par notre analyseur.
+
+
+>Transmission Control Protocol
+	Source Port :0 (0x0) .
+	Destination Port :43606 (0xaa56) .
+	Sequence Number :788529152 (0x2f000000) .
+	Acknowledgment Number :691440705 (0x29368c41) .
+	Header Length :0 octets  (0x0) .
+	Reserved:000000.
+		URG = 0
+		ACK = 0
+		PSH = 0
+		RST = 0
+		SYN = 1
+		FIN = 1
+	Window :34347 octets  (0x862b) .
+	Checksum :0x0809 (2057) .
+	Urgent Pointer :0a0b.
+	Option Length :-20 (-0x14) .
+	Rembourrage Length :0.
+
+
+>Trame 4
+>Ethernet 
+	Source Adress:08:00:20:0a:ac:96.
+	Destination Adress:08:00:20:0a:70:66.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0xf) 60.
+	TOS: (0x0) 0.
+	Total Length: (0x7c) 124.
+	Identification: (16262) 0x3f86.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 0
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0xfb) 251.
+	Protocole: (0x1) 1.
+	Header Cheksum: (18863) 0x49af.
+	Source Adresse:192.33.159.6.
+	Destinataire Adresse :132.227.61.5.
+	Option Length: (0x28) 40.
+	Rembourrage Length: (0x28) 0.
+	Ces option n'ont pas ete prit en compte par notre analyseur.
+
+
+>Transmission Control Protocol
+	Source Port :0 (0x0) .
+	Destination Port :43606 (0xaa56) .
+	Sequence Number :788529152 (0x2f000000) .
+	Acknowledgment Number :691440705 (0x29368c41) .
+	Header Length :0 octets  (0x0) .
+	Reserved:000000.
+		URG = 0
+		ACK = 0
+		PSH = 0
+		RST = 0
+		SYN = 1
+		FIN = 1
+	Window :34347 octets  (0x862b) .
+	Checksum :0x0809 (2057) .
+	Urgent Pointer :0a0b.
+	Option Length :-20 (-0x14) .
+	Rembourrage Length :0.
+
+
+>Trame 5
+>Ethernet 
+	Source Adress:08:00:20:0a:ac:96.
+	Destination Adress:08:00:20:0a:70:66.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0xf) 60.
+	TOS: (0x0) 0.
+	Total Length: (0x7c) 124.
+	Identification: (16262) 0x3f86.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 0
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0xfb) 251.
+	Protocole: (0x1) 1.
+	Header Cheksum: (18863) 0x49af.
+	Source Adresse:192.33.159.6.
+	Destinataire Adresse :132.227.61.5.
+	Option Length: (0x28) 40.
+	Rembourrage Length: (0x28) 0.
+	Ces option n'ont pas ete prit en compte par notre analyseur.
+
+
+>Transmission Control Protocol
+	Source Port :0 (0x0) .
+	Destination Port :43606 (0xaa56) .
+	Sequence Number :788529152 (0x2f000000) .
+	Acknowledgment Number :691440705 (0x29368c41) .
+	Header Length :0 octets  (0x0) .
+	Reserved:000000.
+		URG = 0
+		ACK = 0
+		PSH = 0
+		RST = 0
+		SYN = 1
+		FIN = 1
+	Window :34347 octets  (0x862b) .
+	Checksum :0x0809 (2057) .
+	Urgent Pointer :0a0b.
+	Option Length :-20 (-0x14) .
+	Rembourrage Length :0.
+
+
+>Trame 6
+>Ethernet 
+	Source Adress:08:00:20:0a:ac:96.
+	Destination Adress:08:00:20:0a:70:66.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0xf) 60.
+	TOS: (0x0) 0.
+	Total Length: (0x7c) 124.
+	Identification: (16262) 0x3f86.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 0
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0xfb) 251.
+	Protocole: (0x1) 1.
+	Header Cheksum: (18863) 0x49af.
+	Source Adresse:192.33.159.6.
+	Destinataire Adresse :132.227.61.5.
+	Option Length: (0x28) 40.
+	Rembourrage Length: (0x28) 0.
+	Ces option n'ont pas ete prit en compte par notre analyseur.
+
+
+>Transmission Control Protocol
+	Source Port :0 (0x0) .
+	Destination Port :43606 (0xaa56) .
+	Sequence Number :788529152 (0x2f000000) .
+	Acknowledgment Number :691440705 (0x29368c41) .
+	Header Length :0 octets  (0x0) .
+	Reserved:000000.
+		URG = 0
+		ACK = 0
+		PSH = 0
+		RST = 0
+		SYN = 1
+		FIN = 1
+	Window :34347 octets  (0x862b) .
+	Checksum :0x0809 (2057) .
+	Urgent Pointer :0a0b.
+	Option Length :-20 (-0x14) .
+	Rembourrage Length :0.
+
+

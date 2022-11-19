@@ -1,0 +1,96 @@
+>Trame 1
+----------------- La partie Ethernet ----------------------------- 
+L'adresse mac de la machine source est :00:10:a4:86:2d:0b.
+L'adresse mac de la machine destination est :00:50:7f:05:7d:40.
+Le type de la trame est : (0x0800)  IPv4.
+
+
+----------------- La partie IP ----------------------------- 
+La version est : (0x4) 4.
+La longeur de l'entete est : (0x5) 20.
+Le TOS est : (0x0) 0.
+La longeur total est : (0x34) 52.
+L'identification est : (6039) 0x1797.
+Flags : 
+Bits reserver a 0 .
+	Df = 1 : Interdiction de fragmenter. 
+	Mf = 0 : Le fragment courant n'est pas suivi d'un autre fragment. 
+La position du fragement est : (0x0) 0.
+Le TTL est : (0x40) 64.
+Le Protocole est : (0x6) 6.
+Le cheksum est : (28154) 0x6dfa.
+L'adresse source Internet est :10.33.182.178.
+L'adresse destinataire Internet est :192.55.52.40.
+La taille de l'option est : (0x0) 0.
+Le rembourrage est : (0x0) 40.
+
+
+
+----------------- La partie Tcp ----------------------------- 
+Le port source est :33971 (0x84b3) .
+Le port destination est :80 (0x50) .
+Le numero de sequence est :3063197880 (0xb694b0b8) .
+Le numero d'acquittement est :610765289 (0x246789e9) .
+La taille de l'entete est :8 octets  (0x8) .
+La partie reserve pour usage futur est :000000.
+	URG = 0 : La trame est non prioritaire .
+	ACK = 1 : Le numero d acquitement est valide .
+	PSH = 0 : Il ne faut pas push cette trame .
+	RST = 0 : On a pas besoin de reinitialiser la connexion .
+	SYN = 0 : On n est pas en phase d etablissement de connexion .
+	FIN = 0 : On ne libere pas la connexion .
+La taille de la fenetre est :5840 octets  (0x16d0) .
+Le checksum est :0x6877 (26743) .
+Les poiteurs de donnees urgentes sont :0000.
+La taille des options est :12 (0xc) .
+La partie remplissage est :0.
+
+
+>Trame 2
+----------------- La partie Ethernet ----------------------------- 
+L'adresse mac de la machine source est :00:10:a4:86:2d:0b.
+L'adresse mac de la machine destination est :00:50:7f:05:7d:40.
+Le type de la trame est : (0x0800)  IPv4.
+
+
+----------------- La partie IP ----------------------------- 
+La version est : (0x4) 4.
+La longeur de l'entete est : (0x5) 20.
+Le TOS est : (0x0) 0.
+La longeur total est : (0x34) 52.
+L'identification est : (6039) 0x1797.
+Flags : 
+Bits reserver a 0 .
+	Df = 1 : Interdiction de fragmenter. 
+	Mf = 0 : Le fragment courant n'est pas suivi d'un autre fragment. 
+La position du fragement est : (0x0) 0.
+Le TTL est : (0x40) 64.
+Le Protocole est : (0x6) 6.
+Le cheksum est : (28154) 0x6dfa.
+L'adresse source Internet est :10.33.182.178.
+L'adresse destinataire Internet est :192.55.52.40.
+La taille de l'option est : (0x0) 0.
+Le rembourrage est : (0x0) 40.
+
+
+
+----------------- La partie Tcp ----------------------------- 
+Le port source est :33971 (0x84b3) .
+Le port destination est :80 (0x50) .
+Le numero de sequence est :3063197880 (0xb694b0b8) .
+Le numero d'acquittement est :610765289 (0x246789e9) .
+La taille de l'entete est :8 octets  (0x8) .
+La partie reserve pour usage futur est :000000.
+	URG = 0 : La trame est non prioritaire .
+	ACK = 1 : Le numero d acquitement est valide .
+	PSH = 0 : Il ne faut pas push cette trame .
+	RST = 0 : On a pas besoin de reinitialiser la connexion .
+	SYN = 0 : On n est pas en phase d etablissement de connexion .
+	FIN = 0 : On ne libere pas la connexion .
+La taille de la fenetre est :5840 octets  (0x16d0) .
+Le checksum est :0x6877 (26743) .
+Les poiteurs de donnees urgentes sont :0000.
+La taille des options est :12 (0xc) .
+La partie remplissage est :0.
+
+

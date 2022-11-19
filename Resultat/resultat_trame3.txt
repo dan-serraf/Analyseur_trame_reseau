@@ -1,0 +1,59 @@
+>Trame 1
+>Ethernet 
+	Source Adress:00:10:a4:86:2d:0b.
+	Destination Adress:00:50:7f:05:7d:40.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0x5) 20.
+	TOS: (0x2) 2.
+	Total Length: (0x219) 537.
+	Identification: (6040) 0x1798.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 1
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0x40) 64.
+	Protocole: (0x6) 6.
+	Header Cheksum: (27668) 0x6c14.
+	Source Adresse:10.33.182.178.
+	Destinataire Adresse :192.55.52.40.
+	Option Length: (0x0) 0.
+	Rembourrage Length: (0x0) 40.
+
+
+
+>Transmission Control Protocol
+	Source Port :33971 (0x84b3) .
+	Destination Port :80 (0x50) .
+	Sequence Number :3063197880 (0xb694b0b8) .
+	Acknowledgment Number :610765289 (0x246789e9) .
+	Header Length :8 octets  (0x8) .
+	Reserved:000000.
+		URG = 0
+		ACK = 1
+		PSH = 1
+		RST = 0
+		SYN = 0
+		FIN = 0
+	Window :5840 octets  (0x16d0) .
+	Checksum :0x60e4 (24804) .
+	Urgent Pointer :0000.
+	Option Length :12 (0xc) .
+	Rembourrage Length :0.
+
+
+>Http 
+	>Entete 
+		GET / HTTP/1.1
+		Host: www.xircom.com
+		User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.0) Gecko/20020623 Debian/1.0.0-0.woody.1
+		Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,video/x-mng,image/png,image/jpeg,image/gif;q=0.2,text/css,*/*;q=0.1
+		Accept-Language: fr-FR, fr;q=0.66, en;q=0.33
+		Accept-Encoding: gzip, deflate, compress;q=0.9
+		Accept-Charset: ISO-8859-1, utf-8;q=0.66, *;q=0.66
+		Keep-Alive: 300
+		Connection: keep-alive

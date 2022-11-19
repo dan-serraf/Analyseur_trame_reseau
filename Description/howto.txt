@@ -1,0 +1,41 @@
+Installation requise :
+    - python3
+
+Pour lancer le projet, il faut exécuter le programme le programme principale.
+Le programme principale est main.py
+
+Etapes :
+
+    Etape 1: Ouvrez un terminal.
+    Etape 2: Placez-vous dans le sous répertoire analyseur du projet.
+    Etape 3: Executez la commande suivante pour analyser le fichier choisis:
+
+        - python3 main.py chemin_fichier_trame chemin_stocke_resultat (sans option)
+        - python3 main.py chemin_fichier_trame chemin_stocke_resultat -d (avec option)
+
+        Il prend donc 2 paramètres obligatoire et 1 parametre optionel :
+            1er paramètre : le chemin où se trouve le fichier contenant la ou les trames à analyser.
+            2eme paramètre : le chemin où sera stocké le fichier qui contiendra l'analyse de la (ou des) trame(s) analyser.
+            argument optionel : -d (--detaille) 
+        Cette option nous permet d'avoir une descriptions détailler en format texte de l'analyse du fichier.
+        Par défaut (sans cette option) on réalisera un affichage comme wireshark sans descriptions.
+
+
+Utiliser la commande suivante pour avoir les informations cité plus haut :
+python3 main.py --help 
+
+    
+Exemple d'éxécution:
+
+cd $/Analyseur
+python3 main.py ../Test/trame.txt ../Resultat/resultat_trame.txt
+
+ou encore :
+
+cd $/Analyseur
+python3 main.py ../Test/trame.txt ../Resultat/resultat_trame.txt -d
+
+
+
+
+

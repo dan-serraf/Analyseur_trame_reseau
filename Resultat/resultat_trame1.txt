@@ -1,0 +1,3 @@
+Erreur ligne : 5.
+Erreur la trame numero 1 est trop petite.
+Sa taille est 58 alors que la taille minimum est 60 octets.

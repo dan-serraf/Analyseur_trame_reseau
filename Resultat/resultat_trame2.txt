@@ -1,0 +1,8 @@
+Erreur ligne : 5.
+Erreur ligne : le nombre d'octets a lire ne corresponds pas a l'offset.
+Erreur ligne : 6.
+Erreur ligne : le nombre d'octets a lire ne corresponds pas a l'offset.
+Erreur ligne : 6.
+Erreur l'offset 80 ne correspond pas avec la position courante 76.
+Erreur ligne : 7.
+Erreur l'offset 96 ne correspond pas avec la position courante 76.

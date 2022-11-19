@@ -1,0 +1,48 @@
+>Trame 1
+>Ethernet 
+	Source Adress:08:00:11:08:C0:63.
+	Destination Adress:08:00:20:87:B0:44.
+	Type: (0x0800)  IPv4.
+
+
+>Internet Protocol 
+	Version: (0x4) 4.
+	Header Length: (0x5) 20.
+	TOS: (0x0) 0.
+	Total Length: (0x48) 72.
+	Identification: (18874) 0x49BA.
+	Flags : 
+		Bits reserver = 0 .
+		Df = 0
+		Mf = 0
+	Fragment Offset: (0x0) 0.
+	TTL: (0x1e) 30.
+	Protocole: (0x6) 6.
+	Header Cheksum: (27021) 0x698D.
+	Source Adresse:193.55.51.246.
+	Destinataire Adresse :193.55.51.4.
+	Option Length: (0x0) 0.
+	Rembourrage Length: (0x0) 40.
+
+
+
+>Transmission Control Protocol
+	Source Port :6000 (0x1770) .
+	Destination Port :38612 (0x96d4) .
+	Sequence Number :964658370 (0x397f84c2) .
+	Acknowledgment Number :3208258045 (0xbf3a21fd) .
+	Header Length :5 octets  (0x5) .
+	Reserved:000000.
+		URG = 0
+		ACK = 1
+		PSH = 1
+		RST = 0
+		SYN = 0
+		FIN = 0
+	Window :4380 octets  (0x111c) .
+	Checksum :0x99BC (39356) .
+	Urgent Pointer :0000.
+	Option Length :0 (0x0) .
+	Rembourrage Length :0.
+
+
